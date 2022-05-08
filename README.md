@@ -18,7 +18,7 @@ Fim
 
 --------------------------------------------------------
 
-![fluxograma](https://github.com/gtmach/Exercício_individual_Estacionamento_Algoritimos_e_Programacao_222839/blob/main/estacionamento_fluxograma.png)
+![fluxograma](https://github.com/gtmach/Exercíc-o_individual_Estacionamento_Algoritimos_e_Programacao_222839/blob/main/estacionamento_fluxograma.png)
 
 #Última atualização 07/05/2022
 
